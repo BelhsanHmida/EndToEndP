@@ -1,2 +1,2 @@
 # Project plan:
-## 1) Enviroment Setup completed
+## 1) Enviroment Setup
