@@ -9,10 +9,10 @@ def get_requirements(file_path: str) -> List[str]:
     requirements = []
     with open(file_path)as file_obj:
         requirements = file_obj.readlines()
-        requirements = [x.replace('\n', '') for x in requirements]
+        requirements = [x.replace('\n','') for x in requirements]
         if Hyp_e_dot in requirements:
             requirements.remove(Hyp_e_dot)
-    return requirements
+    return requirements        
 
 
 setup(
