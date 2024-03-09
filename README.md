@@ -2,10 +2,10 @@
 
 ## 1) Enviroment Setup:
 
-## -new enviroment venv
+##   -new enviroment venv
 
-## -setup.py
+##   -setup.py
 
-## -requirements.txt
+##   -requirements.txt
 
-## -setup.py
+
