@@ -1,11 +1,11 @@
-# Project plan:
+## Project plan:
 
-## 1) Enviroment Setup:
+# 1) Enviroment Setup:
 
-##   -new enviroment venv
+#   -new enviroment venv
 
-##   -setup.py
+#   -setup.py
 
-##   -requirements.txt
+#   -requirements.txt
 
 
